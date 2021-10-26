@@ -1,2 +1,2 @@
-# react-recoil
+# react-atom
 Created with CodeSandbox
